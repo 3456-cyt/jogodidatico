@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: jogodidatico
+    env: static
+    staticPublishPath: public
